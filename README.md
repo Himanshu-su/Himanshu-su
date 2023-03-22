@@ -154,10 +154,7 @@
           alt="git"
           width="40"
           height="40"
-      /></a>
-  
-      
-    </p>
+      /></a></p>
 
 <p align="center">
 <p align="center" margin="100"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=Himanshu-su" alt="Himanshu-su" /></a> </p>
